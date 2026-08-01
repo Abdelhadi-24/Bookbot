@@ -2,7 +2,7 @@
 
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
-This is a very simple project mainly to practice Python fundamentals while working through the Boot.dev course. It's intended as a learning exercise rather than a full-featured application.
+This is a very simple project mainly to practice Python fundamentals while working through the Boot.dev course. It's intended as a learning exercise.
 
 **Description**
 
